@@ -1,4 +1,4 @@
-# screw_plus_decryptor
+# php_unscrew_plus
 Decrypt encrypted file by php_screw_plus
 
 # Compile
